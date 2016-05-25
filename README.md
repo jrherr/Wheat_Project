@@ -1,2 +1,3 @@
 # Wheat_Project
-Wheat Microbiome Project Stuff
+
+This is a repo for Wheat Microbiome Project Stuff
